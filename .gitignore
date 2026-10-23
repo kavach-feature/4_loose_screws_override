@@ -1,0 +1,11 @@
+# VEXcode V5 Blocks workspace & cached files
+.vex/
+.v5code/
+
+# IDE settings (VS Code / VEX Extension)
+.vscode/
+.vs/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
